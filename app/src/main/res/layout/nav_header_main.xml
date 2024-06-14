@@ -51,6 +51,7 @@
         android:onClick="loginBtnNavClicked"
         android:text="Login"
         android:textAlignment="viewStart"
+        android:textColor="@color/white"
         android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
